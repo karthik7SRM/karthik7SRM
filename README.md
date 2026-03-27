@@ -6,9 +6,9 @@
 
 ---
 - 5x Hackathon Team Lead with Winners, Runners and Finalist
+- President @ Intellects Club SRM Ramapuram
 - Data Science Team Lead @ InternPro (2025)
 - Data Science Intern @ Tarcin Robotics LLP (2025-2026)
-- Technical Team Member @ Intellects Club SRM RAMAPURAM
 - Bridging Full Stack Web Development and Data Science
 ---
 
